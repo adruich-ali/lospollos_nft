@@ -6,12 +6,13 @@ import search from "../assets/icons/search.png";
 
 import logo from "../assets/images/logo.png";
 import nft01 from "../assets/images/nft01.png";
-import nft02 from "../assets/images/nft02.jpeg";
-import nft03 from "../assets/images/nft03.jpeg";
-import nft04 from "../assets/images/nft04.jpeg";
-import nft05 from "../assets/images/nft05.jpeg";
-import nft06 from "../assets/images/nft06.jpeg";
-import nft07 from "../assets/images/nft07.jpeg";
+import nft02 from "../assets/images/nft02.png";
+import nft03 from "../assets/images/nft03.png";
+import nft04 from "../assets/images/nft04.png";
+import nft05 from "../assets/images/nft05.png";
+import nft06 from "../assets/images/nft06.png";
+import nft07 from "../assets/images/nft06.png";
+
 
 import person01 from "../assets/images/person01.png";
 import person02 from "../assets/images/person02.png";

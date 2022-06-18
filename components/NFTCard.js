@@ -13,7 +13,7 @@ const NFTCard = ({data}) => {
       margin: SIZES.base,
       ...SHADOWS.dark
     }}>
-      <View style={{width:"100%" ,height:250}}>
+      <View style={{width:"100%" ,height:350}}>
         <Image source={data.image} resizeMode="cover" 
         style={{
           width:"100%", height:"100%",

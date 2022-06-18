@@ -13,7 +13,8 @@ const theme = {
   ...DefaultTheme,
   colors:{
     ...DefaultTheme.colors,
-    background: "transparent"
+    background: "transparent",
+    color:'black'
   }
 }
 const App = () => {
