@@ -97,7 +97,7 @@ const NFTData = [
         name: "Iliass li",
         price: 54.25,
         image: assets.person04,
-        date: "December 27, 2019 at 1:50 PM",
+        date: "Decemberr 27, 2019 at 1:50 PM",
       }
     ],
   },
